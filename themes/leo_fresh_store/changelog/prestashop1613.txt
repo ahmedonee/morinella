@@ -1,0 +1,7 @@
+****** File tpl ****
+- history.tpl
+
+***** File JS *****
+- /js/debug/jquery.lint.LICENSE
+- /js/autoload/jquery.total-storage.LICENSE
+- js/autiload/jquery.uniform-modified.LICENSE

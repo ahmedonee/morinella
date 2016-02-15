@@ -1,0 +1,45 @@
+****** File tpl ****
+- category.tpl
+- global.tpl
+- header.tpl
+- footer.tpl
+- order-payment-classic.tpl
+- order-opc-new-account.tpl
+- order-payment-classic.tpl
+- pagination.tpl
+- product.tpl
+- authentication.tpl
+- order-address-product-line.tpl
+- shopping-cart.tpl
+- shopping-cart-advanced.tpl
+- shopping-cart-product-line.tpl
+- supplier-list.tpl
+- \sub\product-item\product-item.tpl
+- \sub\product_info\tab.tpl
+- \modules\blockcms\blockcms.tpl
+- \modules\blocklanguages\blocklanguages.tpl
+- \modules\blocksocial\blocksocial.tpl
+- \modules\blockwishlist\view\template\front\mangewishlist.tpl
+- \modules\blockwishlist\view\template\front\mywishlist.tpl
+- \modules\blockwishlist\view\template\front\view.tpl
+- \modules\blockwishlist\blockwishlist_button.tpl
+- \modules\productcomments\products-comparison.tpl
+- \modules\loyalty\views\templates\hook\product.tpl
+
+
+***** File JS *****
+- js/modules/blockcart/ajax-cart.js
+- js/modules/blocklayered/blocklayered.js
+- js/modules/blocktopmenu/js/blocktopmenu.js
+- js/modules/loyalty/js/loyalty.js
+- js/tools/statesManagement.js
+- js/global.js
+- js/product.js
+- js/stores.js
+
+*** File CSS ***
+- global.css
+- delete font-awesome.min.css
+
+*** Fonts ***
+- Update folder fonts to get the latest font

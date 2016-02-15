@@ -1,0 +1,127 @@
+#header_user_info li.login a{
+    /*custom*/
+    color:#4a70b7;
+  }
+  #header-main a{   /*custom*/
+    color:#4a70b7;
+  }
+ .header-stack-center #header-main {
+    /*background: #2a2a29; custom */
+    background: #fff;
+  }
+.popup-over {
+  background: #fff;
+}
+  .header-classic #header-main {
+    /*background: #2a2a29; custom*/
+    background: #fff;
+  }
+
+#leo-megamenu .navbar-nav > li > a:hover, #leo-megamenu .navbar-nav > li > a:focus, #leo-megamenu .navbar-nav > li > a:active {
+  color: #4a70b7;
+  background-color: transparent;
+}
+#leo-megamenu .navbar-nav > li.active > a, #leo-megamenu .navbar-nav > li:hover > a {
+  color: #4a70b7;
+}
+#cart .heading {
+  background: #4a70b7;
+}
+figure.effect-milo h2 {
+color:#4a70b7;
+}
+#leo-megamenu .navbar-nav > li > a {
+font-size:20px;
+}
+.sidebar .block.highlighted .title_block {
+  background: #4a70b7;
+}
+#footer #newsletter_block_left form .btn {
+
+  background: #4a70b7;
+  border: 1px solid #4a70b7;
+}
+#back-top a {
+  background: #4a70b7;
+}
+.sidebar .block .title_block{
+  background: #4a70b7;
+}
+.page-heading{
+color: #4a70b7;
+}
+.content_sortPagiBar .display .selected a {
+  background-color: #4a70b7;
+  border: 1px solid #4a70b7;
+}
+.breadcrumb {
+  color: #4a70b7;
+}
+.ajax_block_product .product-container:hover {
+  border: 1px solid #4a70b7;
+}
+
+.product-block .left-block .btn {
+
+  background: #4a70b7;
+  border: 1px solid #4a70b7;
+}
+.product-container .name a:hover {
+  color: #4a70b7;
+}
+.product-block .functional-buttons .btn:hover {
+  background: #4a70b7;
+  border: 1px solid #4a70b7;
+}
+.product-block .functional-buttons .btn:hover {
+  background: #4a70b7;
+  border: 1px solid #4a70b7;
+  color: white;
+}
+.page-subheading {
+  color: #4a70b7;
+}
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+  color: white;
+  background-color: #4a70b7;
+  border-color: #4a70b7;
+}
+#my-account ul.myaccount-link-list li a i {
+
+  color: #4a70b7;
+}
+.owl-theme .owl-controls .owl-buttons div, .carousel-control {
+
+  background: #4a70b7;
+}
+.owl-theme .owl-controls .owl-buttons .owl-prev:after {
+  border-right: 9px solid #4a70b7;
+}
+
+.owl-theme .owl-controls .owl-buttons .owl-next:after {
+  border-left: 9px solid #4a70b7;
+}
+.product-container .product-box {
+
+  background: #4a70b7;
+}
+.product-container .product-box:before {
+
+  border-left: 10px solid #4a70b7;
+}
+div.verticalmenu ul li a:hover, div.verticalmenu ul li a:focus {
+  color: #4a70b7;
+}
+div.verticalmenu ul li a:hover .menu-title, div.verticalmenu ul li a:focus .menu-title {
+  color: #4a70b7;
+}
+#off-canvas-nav .offcanvas-mainnav {
+  background-color: #4a70b7;
+}
+#off-canvas-nav .navbar-nav > li > a:hover, #off-canvas-nav .navbar-nav > li > a:focus {
+
+  color: #4a70b7 !important;
+}
+button_mini btn btn-outline-inverse:hover{
+  background-color: #4a70b7;
+}

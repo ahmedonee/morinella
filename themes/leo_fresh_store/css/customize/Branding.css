@@ -1,0 +1,29 @@
+
+/* customize for body */ 
+body { background-color:#ffffff} 
+.container { background-color:#ffffff} 
+body { color:#4a70b7} 
+a { color:#244a91} 
+a:hover { color:#071f4a} 
+
+/* customize for topbar */ 
+#topbar { background-color:#ffffff} 
+#topbar .container > .inner { background-color:#ffffff} 
+#topbar .container > .inner { color:#4a70b7} 
+#topbar a { color:#4a70b7} 
+#topbar a:hover { color:#264682} 
+
+/* customize for header-main */ 
+#header-main { background-color:#ffffff} 
+#header-main .container > .inner { background-color:#ffffff} 
+#header-main .container > .inner { color:#4a70b7} 
+#header-main a { color:#4a70b7} 
+#header-main a:hover { color:#264b91} 
+
+/* customize for footer */ 
+
+/* customize for product */ 
+
+/* customize for modules */ 
+
+/* customize for highlighted-modules */ 

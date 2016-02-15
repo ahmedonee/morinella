@@ -1,0 +1,149 @@
+@import "compass";
+@import "theme_variables";
+// Core variables and mixins
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+@import "bootstrap/rtl/grid";
+// Utility classes
+@import "bootstrap/rtl/utilities";
+@import "bootstrap/rtl/responsive-utilities";
+
+/********************************************************
+			Right to Left Styles
+********************************************************/
+
+* {
+	direction: rtl !important;
+}
+#page {
+	text-align: right !important;
+}
+
+// paneltool
+
+.panelbutton {
+    -webkit-box-shadow: -3px 1px 2px #888888;
+    box-shadow: -3px 1px 2px #888888;
+ }
+.fancybox-margin {margin-right: 0px!important;}
+
+.editortool .label-customize {
+    background-image: url('#{$image-theme-base-path}label_customize-1.png');
+}
+.editortool .label-customize:hover {
+    background-position: 0 -111px;
+}
+.block .list-block li {
+	a {
+		&:before {
+			content: "\f104";
+		}
+	}
+}
+.accessories-block ul li{float: right !important;}
+.rtl {
+	.carousel-control{
+		&.right{
+			left: 48px;
+			border-left: none;
+		}
+		&.left{
+			left: 10px;
+			border-right:$main-border;
+		}
+	}
+}
+
+.widget-manufacture{
+  .carousel-control{;
+    &.left,&.right{
+      border: none;
+    }
+    &.right{
+    	left: 0px;
+    	right: auto;
+    }
+  }
+}
+
+
+//cart
+ #cart .heading:before{
+ 	right: -19px;
+ }
+ #cart .heading{
+ 	margin-right: 20px;
+ 	margin-left: -26px;
+ }
+ .rtl #cart .heading:after{
+ 	left: -25px;
+ }
+ .carousel-control.right{
+ 	left: 40px;
+ }
+ //heading
+ #header-main #header_content .inner{
+ 	margin-left:9px;
+ }
+
+ //
+.rtl div.verticalmenu .navbar-nav > li .caret{
+	left: 18px;
+}
+figure.effect-milo img{
+	position: relative;
+	right: -7px;
+}
+/*------------------------------------------------header-stack-right----------------------------------------------*/
+.header-stack-right{
+	.blockcart_top{
+		float:right!important;
+	}
+	.popup-over{
+		float: right!important;
+	}
+}
+
+.rtl div.verticalmenu .dropdown-menu{
+	right: 100%!important;
+}
+//carousel
+.rtl .carousel-control.left{
+	left:33px;
+	border-right: none;
+}
+.carousel-control.right:before{
+	content:"\f104";
+}
+.carousel-control.left:before{
+	content: "\f105";
+}
+
+.rtl{
+	.owl-theme{
+		.owl-controls{
+			.owl-buttons{
+				>div.owl-prev ,.carousel-control.owl-prev{
+					left: 14px;
+				}
+				>div.owl-next ,.carousel-control.owl-next{
+					left: 40px;
+				}
+				>div.owl-next ,.carousel-control.owl-next{
+					&:before{
+						right: 6px;
+
+					}
+				}
+			}
+		}
+	}
+}
+
+#leo-megamenu{
+	.dropdown-submenu:hover > .dropdown-menu{
+		left: auto;
+		right: 100%;
+	}
+}
