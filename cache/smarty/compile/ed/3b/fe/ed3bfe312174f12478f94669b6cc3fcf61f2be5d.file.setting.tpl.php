@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-02-15 09:54:27
+<?php /* Smarty version Smarty-3.1.19, created on 2016-02-16 11:54:35
          compiled from "/Applications/MAMP/htdocs/prestashop/themes/leo_fresh_store/layout/setting.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:19174201156b312451ac8f2-88258059%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'ed3bfe312174f12478f94669b6cc3fcf61f2be5d' => 
     array (
       0 => '/Applications/MAMP/htdocs/prestashop/themes/leo_fresh_store/layout/setting.tpl',
-      1 => 1455522862,
+      1 => 1455616467,
       2 => 'file',
     ),
   ),
